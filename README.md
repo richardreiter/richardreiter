@@ -1,22 +1,30 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-                           alt="Waving hand animated gif" 
-                           height="45" 
-                           width="45" /> I'm Richie</h1>
-<h3 align="center">I'm passionate about all kinds of technologies and music.</h3>
+![Richard's Github Profile Views](https://komarev.com/ghpvc/?username=RichardReiter)
+
+<h1 align="center">Hey There! :v:</h1>
+<h2 align="center">I'm Richard Reiter. A keen, aspiring Junior Full-Stack Developer.</h2>
+<p align="center">Passionate to build upon my skillset with each day, and to be creative with code!</p>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **my final Portfolio Project with Code Institute's Full Stack Software Development Diploma**
+- :open_book: Recently graduated with Merit (2:1) from the [Code Institute](https://codeinstitute.net/), with a Diploma in Full Stack Software Development (E-Commerce Applications).
+
+- :nerd_face: I also hold a Bachelor of Science in Information Technology from [CCT College Dublin](https://www.cct.ie/) (2:1 Grade).
+
+- :computer: Check out my latest project, [Melo Merch](https://melo-merch.herokuapp.com/)! It's a B2C streetwear fashion e-commerce website.
+
+- :raising_hand_man: I'm a fervent empath, so please, ask me anything! I'm always keen to collaborate and learn to get a deeper understanding.
+
+- 📫 You can reach me at richard.reiter.dev@gmail.com
+
+- ⚡ A fun fact about me is that I love DJing in my bedroom.
+
+## Connect with me:
+<p align="left">
+
+  [![Linkedin Badge](https://img.shields.io/badge/-Richard-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emidiovalereto/)](https://www.linkedin.com/in/richard-reiter/)
+  [![Gmail Badge](https://img.shields.io/badge/-richard.reiter.dev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:richard.reiter.dev@gmail.com)](mailto:richard.reiter.dev@gmail.com)
   
-- 🌱 I am currently learning **Full Stack Software Development** at [Code Institute](https://codeinstitute.net/).
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio(under development)]**  -->
-
-- 📫 You can reach out to me at **richard.reiter.dev@gmail.com**
-
-- ⚡ Fun fact **I love DJing in my bedroom.**
+</p>
 
 ## 🚀 Languages and Tools:
 
@@ -63,14 +71,6 @@
 
 <p align="center">
  <img alt="Snake animation" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
-## Connect with me:
-<p align="left">
-
-  [![Linkedin Badge](https://img.shields.io/badge/-Richard-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emidiovalereto/)](https://www.linkedin.com/in/richard-reiter/)
-  [![Gmail Badge](https://img.shields.io/badge/-richard.reiter.dev@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:richard.reiter.dev@gmail.com)](mailto:richard.reiter.dev@gmail.com)
-  
 </p>
 
 <!-- ## ❤ Views and Followers
