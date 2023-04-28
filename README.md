@@ -1,12 +1,12 @@
 ![Richard's Github Profile Views](https://komarev.com/ghpvc/?username=RichardReiter)
 
 <h1 align="center">Hey There! :v:</h1>
-<h2 align="center">I'm Richard Reiter. A keen, aspiring Junior Full-Stack Developer.</h2>
+<h2 align="center">I'm Richard Reiter. A Web Developer.</h2>
 <p align="center">Passionate to build upon my skillset with each day, and to be creative with code!</p>
 
 ## 🙋‍♂️ About Me
 
-- :open_book: Recently graduated with Merit (2:1) from the [Code Institute](https://codeinstitute.net/), with a Diploma in Full Stack Software Development (E-Commerce Applications).
+- :open_book: Graduated with Merit (2:1) from the [Code Institute](https://codeinstitute.net/), with a Diploma in Full Stack Software Development (E-Commerce Applications).
 
 - :nerd_face: I also hold a Bachelor of Science in Information Technology from [CCT College Dublin](https://www.cct.ie/) (2:1 Grade).
 
@@ -16,7 +16,7 @@
 
 - 📫 You can reach me at richard.reiter.dev@gmail.com
 
-- ⚡ A fun fact about me is that I love DJing in my bedroom.
+- ⚡ A fun fact about me is that I love DJing.
 
 ## Connect with me:
 <p align="left">
@@ -40,7 +40,9 @@
     <a href="https://dev.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.heroku.com/" target="_blank" > <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a> 
+    <a href="https://www.heroku.com/" target="_blank" > <img src="https://img.icons8.com/color/48/000000/heroku.png"/> </a>
+    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+    <a href="https://www.figma.com/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
 <br/>
